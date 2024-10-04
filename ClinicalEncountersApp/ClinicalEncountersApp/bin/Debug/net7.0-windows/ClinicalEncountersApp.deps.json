@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ClinicalEncountersApp/1.0.0": {
+        "dependencies": {
+          "ClinicalEncounters": "1.0.0"
+        },
+        "runtime": {
+          "ClinicalEncountersApp.dll": {}
+        }
+      },
+      "ClinicalEncounters/1.0.0": {
+        "runtime": {
+          "ClinicalEncounters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicalEncountersApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClinicalEncounters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

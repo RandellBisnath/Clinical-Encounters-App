@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "ClinicalEncounters/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ClinicalEncounters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClinicalEncounters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicalEncounters/1.0.0": {
+      "type": "project",
+      "path": "../ClinicalEncounters/ClinicalEncounters.csproj",
+      "msbuildProject": "../ClinicalEncounters/ClinicalEncounters.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "ClinicalEncounters >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rande\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rande\\source\\repos\\ClinicalEncountersApp\\ClinicalEncountersApp\\ClinicalEncountersApp.csproj",
+      "projectName": "ClinicalEncountersApp",
+      "projectPath": "C:\\Users\\rande\\source\\repos\\ClinicalEncountersApp\\ClinicalEncountersApp\\ClinicalEncountersApp.csproj",
+      "packagesPath": "C:\\Users\\rande\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rande\\source\\repos\\ClinicalEncountersApp\\ClinicalEncountersApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rande\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\Users\\rande\\source\\repos\\ClinicalEncountersApp\\ClinicalEncounters\\ClinicalEncounters.csproj": {
+              "projectPath": "C:\\Users\\rande\\source\\repos\\ClinicalEncountersApp\\ClinicalEncounters\\ClinicalEncounters.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

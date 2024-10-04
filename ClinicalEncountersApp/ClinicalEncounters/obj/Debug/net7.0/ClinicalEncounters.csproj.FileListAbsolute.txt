@@ -1,0 +1,12 @@
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\bin\Debug\net7.0\ClinicalEncounters.deps.json
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\bin\Debug\net7.0\ClinicalEncounters.dll
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\bin\Debug\net7.0\ClinicalEncounters.pdb
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.csproj.AssemblyReference.cache
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.AssemblyInfoInputs.cache
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.AssemblyInfo.cs
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.csproj.CoreCompileInputs.cache
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.dll
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\refint\ClinicalEncounters.dll
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ClinicalEncounters.pdb
+C:\Users\rande\source\repos\ClinicalEncountersApp\ClinicalEncounters\obj\Debug\net7.0\ref\ClinicalEncounters.dll
